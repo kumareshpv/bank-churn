@@ -8,6 +8,15 @@ This repository contains the Power BI dashboard for analyzing customer churn in 
 
 ---
 
+## Dashboard Preview
+
+![Bank Churn Dashboard](image.png)
+
+
+---
+
+---
+
 ## Features
 
 - **Customer Insights:** Analyze customer demographics, including geography, age, and gender.
