@@ -13,9 +13,6 @@ This repository contains the Power BI dashboard for analyzing customer churn in 
 ![Bank Churn Dashboard - Page 1](image.png)
 ![Bank Churn Dashboard - Page 2](image2.png)
 
-
----
-
 ---
 
 ## Features
