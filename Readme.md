@@ -58,7 +58,6 @@ Interact with the dashboard directly using the [live link](https://app.powerbi.c
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/bank-churn-dashboard.git
-   ```bash
 2. Open the `Bank-Churn.pbix` file in Power BI Desktop.
 3. Explore the dashboard using slicers and filters
 
@@ -72,11 +71,9 @@ Contributions are welcome! Follow these steps to contribute:
 2. Create a branch:
    ```bash
    git checkout -b feature-name
-   ```bash
 3. Commit your changes:
    ```bash
    git commit -m "Add feature description"
-   ```bash
 4. Push and open a pull request.
 
 ---
